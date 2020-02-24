@@ -1,0 +1,88 @@
+.container{
+    margin-bottom: 100px;
+}
+
+a{
+    color: gray;
+}
+a:hover{
+    color: gray;
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+a.yellow{
+    color: orange;
+}
+.card{
+    box-shadow: 10px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+
+hr{
+    border: 5px solid
+orange;
+border-radius: 5px;
+width: 4%;
+}
+.cat{
+    margin-top:100px;
+    margin-bottom: 150px;
+}
+.last-sec{
+    margin-top: 30px;
+}
+.bag{
+    
+    border-radius:10px;
+    border: none;
+   
+    box-shadow: 5px 5px 20px
+    lightgray;
+    margin-right: 5px;
+    margin-top: 130px;
+}
+.bag{
+    padding: 30px 40px;
+}
+.items2{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.perfume{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.perfume{
+    padding: 30px 40px;
+}
+.shoe{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px
+lightgray;
+margin-top: 10px;
+}
+.shoe img{
+    padding: 30px 40px;
+   
+}
+.res{
+    position: relative;
+    right: 120px;
+    bottom: 120px;
+}
+.pale img{
+    width: 80%;
+    margin-left: 120px;
+}
+.back{
+    background-color: lightsalmon;
+    padding: 40px;
+    box-shadow: 5px 10px 12px 3px lightslategrey;
+    height: 300px;
+}
